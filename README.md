@@ -1,2 +1,2 @@
 # dotfiles
-My set of bash, git, and vim dot files.
+My set of shell, git, and vim dot files.
