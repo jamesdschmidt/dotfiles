@@ -12,3 +12,4 @@ alias ...='cd ../..'
 alias ls='ls -GwF'
 alias ll='ls -alh'
 alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
+alias uuidgen='uuidgen | tr "[:upper:]" "[:lower:]"'
