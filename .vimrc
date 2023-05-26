@@ -1,6 +1,6 @@
 " Enable syntax highlighting
 syntax on
-colo desert
+colo slate
 " Tab as 2 spaces (soft tab)
 set tabstop=2 shiftwidth=2 expandtab
 " Backspace key treat the two spaces like a tab
